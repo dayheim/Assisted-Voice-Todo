@@ -1,0 +1,30 @@
+body{
+	font-family: Arial, sans-serif;
+	background: #f4f4f4;
+	color: #333;
+	text-align: center;
+	padding: 2rem;
+}
+
+main{
+	max-width: 500px;
+	margin: auto;
+}
+
+button {
+	margin: 0.5rem;
+	padding: 0.5rem 1rem;
+	font-size: 1rem;
+	cursor: pointer;
+	}
+
+li {
+	list-style: none;
+	padding: 0.5rem;
+	border-bottom: 1px solid #ccc;
+	}
+	
+.completed {
+	text-decoration: line-through;
+	color: gray;
+	}
