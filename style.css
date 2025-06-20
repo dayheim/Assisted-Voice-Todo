@@ -11,6 +11,25 @@ main{
 	margin: auto;
 }
 
+#manual-entry {
+	margin: 1rem auto;
+	display: flex;
+	justify-content: center;
+	gap: 0.5rem
+}
+
+#task-input{
+	padding: 0.5rem;
+	font-size: 1rem;
+	width: 60%;
+}
+
+#add-task-btn {
+	padding: 0.5rem 1rem;
+	font-size: 1rem;
+	cursor: pointer;
+}
+
 button {
 	margin: 0.5rem;
 	padding: 0.5rem 1rem;
